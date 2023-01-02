@@ -7,5 +7,6 @@ class Sum {
 
         System.out.println(a+b); //summation
         System.out.println(a+b+c+d);
+        // added some changes
     }
 }
